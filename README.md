@@ -3,7 +3,7 @@
 # Introduction
 - 👋 Hi, we are Production Robotics! We design and build custom automation solutions for customers all around the world :earth_americas:
 - You can find us on any of the following links:
-  -Test
+  - Test
 - 📫 You can email us at contact@productionrobotics.com with any questions you have for us!
 
 # Current Repositories
