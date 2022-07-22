@@ -1,13 +1,13 @@
 ![this is an image](https://productionrobotics.com/wp-content/uploads/Hi-ResLogoBlue-400x93.jpg)
 
-# Introduction
+# **Introduction**
 - 👋 Hi, we are Production Robotics! We design and build custom automation solutions for customers all around the world :earth_americas:
 - You can find us on any of the following links:
   - LinkedIn: https://www.linkedin.com/company/production-robotics/mycompany/
   - Website: https://productionrobotics.com/
 - 📫 You can email us at contact@productionrobotics.com with any questions you have for us!
 
-# Current Repositories
+# **Current Repositories**
 Below is a list of all suported repos Production Robotics has/maintains. 
 
 ## Mawi Vial Capper Version 1/2
