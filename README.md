@@ -1,4 +1,4 @@
-![this is an image](https://productionrobotics.com/wp-content/uploads/Hi-ResLogoBlue-400x93.jpg)
+
 ![alt text](https://github.com/Production-Robotics/Production-Robotics/blob/main/Production-Robotics-Logo.png?raw=true)
 
 # **Introduction**
