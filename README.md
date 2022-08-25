@@ -9,7 +9,7 @@
 - 📫 You can email us at contact@productionrobotics.com with any questions you have for us!
 
 # **Current Repositories**
-Below is a list of all suported repos Production Robotics has/maintains. 
+Below is a list of all suported repos Production Robotics has/maintains:
 
 ### Mawi Vial Capper Version 1/2
 ### Mawi Vacuum Tester Version 1
