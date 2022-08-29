@@ -12,7 +12,7 @@
 Below is a list of all suported repos Production Robotics has/maintains:
 
 ### Mawi Vial Capper Version 1/2
-### Mawi Vacuum Tester Version 1
+### Mawi Vacuum Tester
 
 <!---
 Production-Robotics/Production-Robotics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
