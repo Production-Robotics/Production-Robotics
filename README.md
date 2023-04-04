@@ -11,9 +11,17 @@
 # **Current Repositories**
 Below is a list of all suported repos Production Robotics has/maintains:
 
-### Mawi Vial Capper Version 1/2
-### Mawi Vacuum Tester
-### IV3 Camera Trigger Ladder Logic
+### Vial Station Versions 1 and 2  
+- Ladder logic writter for Allen-Bradley controllers 
+### Vacuum Tester
+- C/C++ code that processes/transfer data from analog ports on P1AM ports to any other COM port
+- to be used in tandem with excel COM Add-in
+- Supports 6 vacuum sensors
+### IV3 Camera Trigger
+- Ladder Logic sequence writtern for Allen-Bradley controllers that externally triggers IV3 camera
+### SkyCAD Environment
+- allows for teams to work on the same environments
+- pull from our personal libraries to quickly develop electrical schematics
 
 <!---
 Production-Robotics/Production-Robotics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
